@@ -3,4 +3,4 @@
 
 |ML Blog Daywise|
 |-|
-|Day1| https://twitter.com/Sachintukumar/status/1635991379653591045?s=20 |
+|Day1|https://twitter.com/Sachintukumar/status/1635991379653591045?s=20|
