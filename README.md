@@ -8,3 +8,4 @@
 |Day3 (  Types of Machine Learning )| [Explanation Link](https://twitter.com/Sachintukumar/status/1636725478836035585?s=20)
 |Day4 ( Batch Learning in ML )   | [Explanation Link](https://twitter.com/Sachintukumar/status/1637083201326977025?s=20)
 |Day5 ( Online Learning in ML) | [Explanation Link](https://twitter.com/Sachintukumar/status/1637475239037919232?s=20)
+|Day6                            | [Explanation Link](https://twitter.com/Sachintukumar/status/1637819678939832321?s=20)
