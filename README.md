@@ -9,4 +9,4 @@
 |Day4 ( Batch Learning in ML )   | [Explanation Link](https://twitter.com/Sachintukumar/status/1637083201326977025?s=20)
 |Day5 ( Online Learning in ML) | [Explanation Link](https://twitter.com/Sachintukumar/status/1637475239037919232?s=20)
 |Day6 (Instance-Based Vs Model-Based Learning ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1637819678939832321?s=20)
-|Day7                                           | [Explanation Link](https://twitter.com/Sachintukumar/status/1638151720927891456?s=20)
+|Day7 (Challenges in ML )                       | [Explanation Link](https://twitter.com/Sachintukumar/status/1638151720927891456?s=20)
