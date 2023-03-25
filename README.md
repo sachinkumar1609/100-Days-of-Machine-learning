@@ -12,5 +12,5 @@
 |Day7 (Challenges in ML )                       | [Explanation Link](https://twitter.com/Sachintukumar/status/1638151720927891456?s=20)
 |Day8  (Applications in ML)                      | [Explanation Link](https://twitter.com/Sachintukumar/status/1638551362177990657?s=20)
 |Day9  (Machine Learning Development Life Cycle)  | [Explanation Link](https://twitter.com/Sachintukumar/status/1638924681272233985?s=20)
-|Day10 Data Engineer V Data Analyst V Data Scientist V ML Engineer                                            | [Explanation Link](https://twitter.com/Sachintukumar/status/1639248319418634242?s=20)
+|Day10 (Data Engineer V Data Analyst V Data Scientist V ML Engineer)                                            | [Explanation Link](https://twitter.com/Sachintukumar/status/1639248319418634242?s=20)
 |Day11                                                         | [Explanation Link](https://twitter.com/Sachintukumar/status/1639514100119257089?s=20)
