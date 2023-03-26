@@ -14,3 +14,4 @@
 |Day9  (Machine Learning Development Life Cycle)  | [Explanation Link](https://twitter.com/Sachintukumar/status/1638924681272233985?s=20)
 |Day10 (Data Engineer V Data Analyst V Data Scientist V ML Engineer)                                            | [Explanation Link](https://twitter.com/Sachintukumar/status/1639248319418634242?s=20)
 |Day11 (Tensor in Machine Learning )     | [Explanation Link](https://twitter.com/Sachintukumar/status/1639514100119257089?s=20)
+|Day12 (Tools Knowledge-Jupyter Notebook,Google Colab,Kaggle | [Explanation Link](https://twitter.com/Sachintukumar/status/1639862759453241344?s=20)
