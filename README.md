@@ -17,3 +17,4 @@
 |Day12 (Tools Knowledge-Jupyter Notebook,Google Colab,Kaggle | [Explanation Link](https://twitter.com/Sachintukumar/status/1639862759453241344?s=20)
 |Day13 (End to End Toy Project )  | [Explanation Link](https://twitter.com/Sachintukumar/status/1640354664913989634?s=20)
 |Day14 (Framing  Machine Learning Problem) | [Explanation Link](https://twitter.com/Sachintukumar/status/1640673200496594945?s=20)
+|Day15 (Working with CSV ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1641072190392274944?s=20)
