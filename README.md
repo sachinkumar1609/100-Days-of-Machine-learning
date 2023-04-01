@@ -20,3 +20,4 @@
 |Day15 (Working with CSV ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1641072190392274944?s=20)
 |Day16 (Working with JSON & SQL) | [Explanation Link](https://twitter.com/Sachintukumar/status/1641430206195064833?s=20)
 |Day17 (Fetching Data From API) | [Explanation Link](https://twitter.com/Sachintukumar/status/1641769779357949953?s=20)
+|Day18 (Fetching Data Using WebScraping)| [Explanation Link](https://twitter.com/Sachintukumar/status/1642159811268857864?s=20)
