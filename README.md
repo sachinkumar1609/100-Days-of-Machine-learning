@@ -22,3 +22,4 @@
 |Day17 (Fetching Data From API) | [Explanation Link](https://twitter.com/Sachintukumar/status/1641769779357949953?s=20)
 |Day18 (Fetching Data Using WebScraping)| [Explanation Link](https://twitter.com/Sachintukumar/status/1642159811268857864?s=20)
 |Day19 (Understanding Your Data in ML ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1642407879675379714?s=20)
+|Day20 (EDA using Univariate Analysis ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1642876923029393408?s=20)
