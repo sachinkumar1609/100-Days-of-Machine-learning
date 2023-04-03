@@ -1,5 +1,9 @@
 # 100-Days-of-Machine-Learning-
 
+![229536673-07af8232-8ec5-4eae-b153-31b8e2447bb1](https://user-images.githubusercontent.com/103982094/229567315-10e8c24d-4de1-4344-b109-886184eec8c1.jpg)
+
+
+
 
 |Daywise| Blog |
 |-|-|
