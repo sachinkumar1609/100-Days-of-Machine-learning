@@ -28,3 +28,5 @@
 |Day19 (Understanding Your Data in ML ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1642407879675379714?s=20)
 |Day20 (EDA using Univariate Analysis ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1642876923029393408?s=20)
 |Day21 (EDA using Bivariate and Multivariate Analysis) | [Explanation Link](https://twitter.com/Sachintukumar/status/1643234919945216000?s=20)
+|Day22 (Pandas Profiling ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1643588343186464770?s=20)
+
