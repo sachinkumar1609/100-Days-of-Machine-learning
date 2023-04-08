@@ -31,3 +31,4 @@
 |Day22 (Pandas Profiling ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1643588343186464770?s=20)
 |Day23 (Feature Engineering) | [Explanation Link](https://twitter.com/Sachintukumar/status/1643857557495369729?s=20)
 |Day24 (Standardization in ML) | [Explanation Link](https://twitter.com/Sachintukumar/status/1644229913099272192?s=20)
+|Day25 (Normalization in ML ) |  [Explanation Link](
