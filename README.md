@@ -32,3 +32,6 @@
 |Day23 (Feature Engineering) | [Explanation Link](https://twitter.com/Sachintukumar/status/1643857557495369729?s=20)
 |Day24 (Standardization in ML) | [Explanation Link](https://twitter.com/Sachintukumar/status/1644229913099272192?s=20)
 |Day25 (Normalization in ML ) |  [Explanation Link](https://twitter.com/Sachintukumar/status/1644558636319125513?s=20)
+|Day26 (Encoding Categorical Data-Label Encoding)| [Explanation Link](https://twitter.com/Sachintukumar/status/1645006461947502595?s=20)
+
+
