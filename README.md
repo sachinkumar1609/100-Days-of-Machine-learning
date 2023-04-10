@@ -33,5 +33,5 @@
 |Day24 (Standardization in ML) | [Explanation Link](https://twitter.com/Sachintukumar/status/1644229913099272192?s=20)
 |Day25 (Normalization in ML ) |  [Explanation Link](https://twitter.com/Sachintukumar/status/1644558636319125513?s=20)
 |Day26 (Encoding Categorical Data-Label Encoding)| [Explanation Link](https://twitter.com/Sachintukumar/status/1645006461947502595?s=20)
-|Day27 (One Hot Encoding ) | [Explanation Link](
+|Day27 (One Hot Encoding ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1645293070500655104?s=20)
 
