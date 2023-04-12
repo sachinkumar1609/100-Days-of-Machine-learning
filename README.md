@@ -35,3 +35,6 @@
 |Day26 (Encoding Categorical Data-Label Encoding)| [Explanation Link](https://twitter.com/Sachintukumar/status/1645006461947502595?s=20)
 |Day27 (One Hot Encoding ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1645293070500655104?s=20)
 |Day28 (Column Transformer in ML ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1645683023290191872?s=20)
+|Day29 (Machine Learning Pipelines ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1646040189146652672?s=20)
+
+
