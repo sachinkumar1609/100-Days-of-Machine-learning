@@ -37,4 +37,4 @@
 |Day28 (Column Transformer in ML ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1645683023290191872?s=20)
 |Day29 (Machine Learning Pipelines ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1646040189146652672?s=20)
 |Day30 (Function Transformer in ML ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1646400722651721728?s=20)
-
+|Day31 (Power Transformer in ML ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1646787549732704256?s=20)
