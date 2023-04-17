@@ -40,5 +40,5 @@
 |Day31 (Power Transformer in ML ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1646787549732704256?s=20)
 |Day32 (Encode Numerical Features ( Binning & Binarization )) | [Explanation Link](https://twitter.com/Sachintukumar/status/1647111390824660994?s=20)
 |Day33 (Handling Mixed Variable in Feature Engineering 👨‍💻 ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1647499239239618560?s=20)
-|Day34 (Handling Date & Time Variable in Feature Engineering) | [Explanation Link](
+|Day34 (Handling Date & Time Variable in Feature Engineering) | [Explanation Link](https://twitter.com/Sachintukumar/status/1647838813925044224?s=20)
 
