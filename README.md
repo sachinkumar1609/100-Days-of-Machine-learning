@@ -43,5 +43,5 @@
 |Day34 (Handling Date & Time Variable in Feature Engineering) | [Explanation Link](https://twitter.com/Sachintukumar/status/1647838813925044224?s=20)
 |Day35 (Handling Missing Data -( Complete Case Analysis ) ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1648173936172224512?s=20)
 |Day36 (Handling missing data || Numerical Data ||  Simple Imputer) | [Explanation Link](https://twitter.com/Sachintukumar/status/1648593543441833984?s=20)
-|Day37 ( Handling Missing Categorical Data -Most Frequent Imputation ||  Missing Category Imputation) | [Explanation Link](https://twitter.com/Sachintukumar/status/1648920398132817921?s=20)
+|Day37 ( Handling Missing Categorical Data -Most Frequent Imputation ||  Missing Category Imputation | [Explanation Link](https://twitter.com/Sachintukumar/status/1648920398132817921?s=20)
 
