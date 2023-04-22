@@ -45,5 +45,5 @@
 |Day36 (Handling missing data - Numerical Data - Simple Imputer) | [Explanation Link](https://twitter.com/Sachintukumar/status/1648593543441833984?s=20)
 |Day37 ( Handling Missing Categorical Data -Most Frequent Imputation-  Missing Category Imputation | [Explanation Link](https://twitter.com/Sachintukumar/status/1648920398132817921?s=20)
 |Day38 ( Missing Indicator - Random Sample Imputation )    | [Explanation Link](https://twitter.com/Sachintukumar/status/1649303106398875650?s=20)
-
+|Day39 ( KNN Imputer  --  Multivariate Imputation )   [Explanation Link](https://twitter.com/Sachintukumar/status/1649623297674612738?s=20)
 
