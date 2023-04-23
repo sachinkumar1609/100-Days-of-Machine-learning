@@ -46,4 +46,5 @@
 |Day37 ( Handling Missing Categorical Data -Most Frequent Imputation-  Missing Category Imputation | [Explanation Link](https://twitter.com/Sachintukumar/status/1648920398132817921?s=20)
 |Day38 ( Missing Indicator - Random Sample Imputation )    | [Explanation Link](https://twitter.com/Sachintukumar/status/1649303106398875650?s=20)
 |Day39 ( KNN Imputer  --  Multivariate Imputation )  |   [Explanation Link](https://twitter.com/Sachintukumar/status/1649623297674612738?s=20)
+|Day40 ( Multivariate Imputation by Chained Equations [ MICE ] ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1650008706455838721?s=20)
 
