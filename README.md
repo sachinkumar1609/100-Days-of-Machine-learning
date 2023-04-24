@@ -47,4 +47,5 @@
 |Day38 ( Missing Indicator - Random Sample Imputation )    | [Explanation Link](https://twitter.com/Sachintukumar/status/1649303106398875650?s=20)
 |Day39 ( KNN Imputer  --  Multivariate Imputation )  |   [Explanation Link](https://twitter.com/Sachintukumar/status/1649623297674612738?s=20)
 |Day40 ( Multivariate Imputation by Chained Equations [ MICE ] ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1650008706455838721?s=20)
+|Day41 ( Outliers in Machine Learning )   | [Explanation Link](https://twitter.com/Sachintukumar/status/1650380563948388355?s=20)
 
