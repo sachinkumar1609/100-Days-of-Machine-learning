@@ -50,3 +50,4 @@
 |Day41 ( Outliers in Machine Learning )   | [Explanation Link](https://twitter.com/Sachintukumar/status/1650380563948388355?s=20)
 |Day42 ( Outlier Detection & Removal using Z-score Method ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1650726390143279106?s=20)
 |Day43 ( Outlier Detection and Removal using the IQR Method ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1651090460017065985?s=20)
+|Day44 ( Outlier Detection using Percentile Method ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1651428438698491904?s=20)
