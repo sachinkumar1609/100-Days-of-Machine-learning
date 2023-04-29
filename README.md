@@ -52,3 +52,4 @@
 |Day43 ( Outlier Detection and Removal using the IQR Method ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1651090460017065985?s=20)
 |Day44 ( Outlier Detection using Percentile Method ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1651428438698491904?s=20)
 |Day45 ( Feature Construction & Feature Splitting ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1651827040923062272?s=20)
+|Day46 ( Curse of Dimensionality  ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1652198854627041282?s=20)
