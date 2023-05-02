@@ -55,4 +55,4 @@
 |Day46 ( Curse of Dimensionality  ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1652198854627041282?s=20)
 |Day47 ( Principle Component Analysis (PCA)  Part 1 ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1652696114351718400?s=20)
 |Day48 ( Principle Component Analysis (PCA)  Part 2 ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1652935939201855489?s=20)
-|Day49 ( Principle Component Analysis (PCA)  Part 1 ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1653291714193551361?s=20)
+|Day49 ( Principle Component Analysis (PCA)  Part 3 ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1653291714193551361?s=20)
