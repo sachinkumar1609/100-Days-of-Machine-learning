@@ -56,4 +56,4 @@
 |Day47 ( Principle Component Analysis (PCA)  Part 1 ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1652696114351718400?s=20)
 |Day48 ( Principle Component Analysis (PCA)  Part 2 ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1652935939201855489?s=20)
 |Day49 ( Principle Component Analysis (PCA)  Part 3 ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1653291714193551361?s=20)
-|Day50 ( Simple Linear Regression || Code + Intuition ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1653663618368684032?s=20)
+|Day50 ( Simple Linear Regression Code + Intuition ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1653663618368684032?s=20)
