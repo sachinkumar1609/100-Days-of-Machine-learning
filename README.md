@@ -59,3 +59,5 @@
 |Day50 ( Simple Linear Regression Code + Intuition ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1653663618368684032?s=20)
 |Day51 (  Simple Linear Regression - Mathematical Formulation ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1654027398298611713?s=20)
 |Day52 ( Regression Metrics MSE MAE & RMSE  R2 Score & Adjusted R2 Score )| [Explanation Link](https://twitter.com/Sachintukumar/status/1654379308163665920?s=20)
+|Day53 ( Multiple Linear Regression Geometric intuition & code ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1654719417971007489?s=20)
+
