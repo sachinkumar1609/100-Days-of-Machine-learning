@@ -60,4 +60,4 @@
 |Day51 (  Simple Linear Regression - Mathematical Formulation ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1654027398298611713?s=20)
 |Day52 ( Regression Metrics MSE MAE & RMSE  R2 Score & Adjusted R2 Score )| [Explanation Link](https://twitter.com/Sachintukumar/status/1654379308163665920?s=20)
 |Day53 ( Multiple Linear Regression Geometric intuition & code ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1654719417971007489?s=20)
-
+|Day54 ( Multiple Linear Regression Mathematical Formulation From Scratch ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1655126257678569472?s=20)
