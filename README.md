@@ -62,3 +62,4 @@
 |Day53 ( Multiple Linear Regression Geometric intuition & code ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1654719417971007489?s=20)
 |Day54 ( Multiple Linear Regression Mathematical Formulation From Scratch ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1655126257678569472?s=20)
 |Day55 ( Multiple Linear Regression Code From Scratch ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1655633535527690240?s=20)
+|Day56 ( Gradient Descent  ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1655922417758515200?s=20)
