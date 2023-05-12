@@ -65,4 +65,4 @@
 |Day56 ( Gradient Descent  ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1655922417758515200?s=20)
 |Day57 ( Batch Gradient Descent ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1656194884989259776?s=20)
 |Day58 ( Stochastic Gradient Descent ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1656567604272828416?s=20)
-|Day60 ( Mini-Batch Gradient Descent ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1656904314630307841?s=20)
+|Day59 ( Mini-Batch Gradient Descent ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1656904314630307841?s=20)
