@@ -68,3 +68,5 @@
 |Day59 ( Mini-Batch Gradient Descent ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1656904314630307841?s=20)
 |Day60 ( Polynomial Regression ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1657354170809356289?s=20)
 |Day61 ( Bias Variance Trade-off ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1657666752413855744?s=20)
+|Day62 ( Ridge Regression Part 1 ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1658023447040237568?s=20)
+|Day63 ( Ridge Regression Part 2 ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1658346710710751232?s=20)
