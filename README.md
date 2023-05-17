@@ -70,3 +70,4 @@
 |Day61 ( Bias Variance Trade-off ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1657666752413855744?s=20)
 |Day62 ( Ridge Regression Part 1 ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1658023447040237568?s=20)
 |Day63 ( Ridge Regression Part 2 ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1658346710710751232?s=20)
+|Day64 ( Ridge Regression using Gradient Descent ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1658698107989917698?s=20)
