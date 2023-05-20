@@ -71,3 +71,5 @@
 |Day62 ( Ridge Regression Part 1 ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1658023447040237568?s=20)
 |Day63 ( Ridge Regression Part 2 ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1658346710710751232?s=20)
 |Day64 ( Ridge Regression using Gradient Descent ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1658698107989917698?s=20)
+|Day65 ( Five key points about Ridge Regression ) | [Explanation link](https://twitter.com/Sachintukumar/status/1659089445100871681?s=20)
+|Day66 ( Lasso Regression ) | [Explanation link](https://twitter.com/Sachintukumar/status/1659597640802369536?s=20)
