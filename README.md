@@ -75,3 +75,5 @@
 |Day66 ( Lasso Regression ) |  [Explanation link](https://twitter.com/Sachintukumar/status/1659597640802369536?s=20)
 |Day67 ( Why Lasso Regression creates sparsity ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1659907681673695242?s=20)
 |Day68 ( ElasticNet Regression ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1660169790701572096?s=20)
+|Day69 ( Logistic Regression )  | [Explanation Link](https://twitter.com/Sachintukumar/status/1660663334616834048?s=20)
+|Day70 (  Logistic Regression Perceptron Trick ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1660914982736003073?s=20)
