@@ -77,3 +77,4 @@
 |Day68 ( ElasticNet Regression ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1660169790701572096?s=20)
 |Day69 ( Logistic Regression )  | [Explanation Link](https://twitter.com/Sachintukumar/status/1660663334616834048?s=20)
 |Day70 (  Logistic Regression Perceptron Trick ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1660914982736003073?s=20)
+|Day71 ( Logistic Regression Sigmoid Function ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1661270996630880257?s=20)
