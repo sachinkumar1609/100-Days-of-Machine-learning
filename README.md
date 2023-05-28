@@ -81,3 +81,4 @@
 |Day72 ( Logistic Regression-Maximum Likelihood ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1661670092072161280?s=20)
 |Day73 ( Derivative of Sigmoid Function ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1662042569864544256?s=20)
 |Day74 ( Logistic Regression Gradient Descent & Code From Scratch ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1662384796780339203?s=20)
+|Day75 ( Accuracy and Confusion Matrix ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1662781568623185928?s=20)
