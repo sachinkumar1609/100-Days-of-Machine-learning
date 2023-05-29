@@ -82,3 +82,4 @@
 |Day73 ( Derivative of Sigmoid Function ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1662042569864544256?s=20)
 |Day74 ( Logistic Regression Gradient Descent & Code From Scratch ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1662384796780339203?s=20)
 |Day75 ( Accuracy and Confusion Matrix ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1662781568623185928?s=20)
+|Day76 ( Precision Recall and F1 Score ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1663155208803987456?s=20)
