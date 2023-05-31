@@ -84,3 +84,4 @@
 |Day75 ( Accuracy and Confusion Matrix ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1662781568623185928?s=20)
 |Day76 ( Precision Recall and F1 Score ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1663155208803987456?s=20)
 |Day77 ( Softmax Regression  ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1663493081457635328?s=20)
+|Day78 ( Polynomial Features in Logistic Regression ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1663883110885515266?s=20)
