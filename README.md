@@ -88,3 +88,4 @@
 |Day79 ( Logistic Regression Hyperparameters ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1664319124015833088?s=20)
 |Day80 ( Decision Trees Geometric Intuition ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1664937015165501440?s=20)
 |Day81 ( Hyperparameter Tuning in Decision Trees ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1665387037023952896?s=20)
+|Day82 ( Regression Tree - Decision Tree visualization with Dtreeviz ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1665767021382868992?s=20)
