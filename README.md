@@ -89,3 +89,4 @@
 |Day80 ( Decision Trees Geometric Intuition ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1664937015165501440?s=20)
 |Day81 ( Hyperparameter Tuning in Decision Trees ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1665387037023952896?s=20)
 |Day82 ( Regression Tree - Decision Tree visualization with Dtreeviz ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1665767021382868992?s=20)
+|Day83 ( Ensemble Learning ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1666128822268493824?s=20)
