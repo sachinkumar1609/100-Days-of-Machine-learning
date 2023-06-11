@@ -91,3 +91,4 @@
 |Day83 ( Ensemble Learning ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1666128822268493824?s=20)
 |Day84 (  How to Develop Voting Ensembles With Python ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1666850896138096640?s=20)
 |Day85 ( Bagging Ensemble Learning )  | [Explanation Link](https://twitter.com/Sachintukumar/status/1667424334657249281?s=20)
+|Day86 ( Random Forest Algorithm in ML ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1667899732104994820?s=20)
