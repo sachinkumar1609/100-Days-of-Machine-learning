@@ -98,3 +98,4 @@
 |Day90 ( Stacking & Blending in ML ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1675062717076389888?s=20)
 |Day91 ( Hierarchical Clustering ) | [Explanation Link](https://twitter.com/Sachintukumar/status/1675397083765829632?s=20)
 |Day92 ( K-Nearest Neighbors(KNN) Algorithm in ML ) | [Explanation Link](https://x.com/Sachintukumar/status/1748669515821621443?s=20)
+|Day93 ( Support Vector Machines in ML ) | [Explanation Link](https://x.com/Sachintukumar/status/1750830034301181988?s=20)
