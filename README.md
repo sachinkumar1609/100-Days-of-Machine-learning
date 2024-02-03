@@ -100,3 +100,4 @@
 |Day92 ( K-Nearest Neighbors(KNN) Algorithm in ML ) | [Explanation Link](https://x.com/Sachintukumar/status/1748669515821621443?s=20)
 |Day93 ( Support Vector Machines in ML ) | [Explanation Link](https://x.com/Sachintukumar/status/1750830034301181988?s=20)
 |Day94 ( Naive Bayes algorithm in ML ) | [Explanation Link](https://x.com/Sachintukumar/status/1751300191964311890?s=20)
+|Day95 ( XGBoost Algorithm in ML ) | [Explanation Link](https://x.com/Sachintukumar/status/1753841514873332141?s=20)
